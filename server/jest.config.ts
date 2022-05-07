@@ -194,4 +194,5 @@ export default {
 
   // Whether to use watchman for file crawling
   // watchman: true,
+  "include": ["src"]
 };
